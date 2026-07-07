@@ -1,4 +1,5 @@
-//public class Basic {
+
+//public class Day_1_Java_Basics.Basic {
 //}
 
 void main(String[] args){
