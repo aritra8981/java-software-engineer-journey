@@ -1,7 +1,7 @@
 # Java Coding Journey 🚀
 
 ## Goal
-Become a Java Backend Developer / Software Engineer.
+Become a Java Full Stack Developer / Software Engineer.
 
 ## Progress
 
