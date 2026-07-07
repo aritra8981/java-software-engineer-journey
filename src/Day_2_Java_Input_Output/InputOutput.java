@@ -27,7 +27,7 @@ public class InputOutput {
         String name = input.next();
 
         input.nextLine();
-        System.out.println("Enter your current designation in one line: ");
+        System.out.println("Enter your Current Address: ");
         String oneLine = input.nextLine();
 
         System.out.println("Flag is : " + flag);
