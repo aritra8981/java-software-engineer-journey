@@ -11,8 +11,9 @@ public class PrintPersonalDetailsUserInput {
         String name = input.nextLine();
         System.out.println("Enter Your Age: ");
         int age = input.nextInt();
+        input.nextLine();
         System.out.println("Enter the Company Name Where you are working currently: ");
-        String company = input.next();
+        String company = input.nextLine();
         System.out.println("Enter your current Salary: ");
         int salary = input.nextInt();
         input.nextLine();

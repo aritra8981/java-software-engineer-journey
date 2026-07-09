@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Day 4 Coding&#10;Completed Topics:&#10;Loops in Java, for Loop, while Loop, do-while, Nested for Loop, Nested While Loop, Break and Continue Statements">
-      <change afterPath="$PROJECT_DIR$/src/Day_2_Java_Input_Output/PrintPersonalDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2_Java_Input_Output/PrintPersonalDetailsUserInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Practice Programs">
+      <change beforePath="$PROJECT_DIR$/src/Day_2_Java_Input_Output/PrintPersonalDetailsUserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_2_Java_Input_Output/PrintPersonalDetailsUserInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783612858808</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Practice Programs">
+      <option name="closed" value="true" />
+      <created>1783620313562</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1783620313563</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,6 +261,7 @@
     <MESSAGE value="Day 2 Coding&#10;Completed Topics:&#10;Input/Output in Java, Scanner Class, nextInt, nextFloat, nextBoolean(), nextShort, next(), nextLine()" />
     <MESSAGE value="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase." />
     <MESSAGE value="Day 4 Coding&#10;Completed Topics:&#10;Loops in Java, for Loop, while Loop, do-while, Nested for Loop, Nested While Loop, Break and Continue Statements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 Coding&#10;Completed Topics:&#10;Loops in Java, for Loop, while Loop, do-while, Nested for Loop, Nested While Loop, Break and Continue Statements" />
+    <MESSAGE value="Practice Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Programs" />
   </component>
 </project>
