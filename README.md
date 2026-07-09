@@ -11,7 +11,7 @@ Become a Java Full Stack Developer / Software Engineer.
 - [x] Operators
 - [x] Input/Output
 - [x] Conditionals
-- [ ] Loops
+- [x] Day_4_Java_Loops
 - [ ] Methods
 - [ ] Arrays
 - [ ] Strings

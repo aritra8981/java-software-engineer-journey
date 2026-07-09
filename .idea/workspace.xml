@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Day 2 Coding&#10;Completed Topics:&#10;Input/Output in Java, Scanner Class, nextInt, nextFloat, nextBoolean(), nextShort, next(), nextLine()">
-      <change afterPath="$PROJECT_DIR$/src/Day_3_Java_Conditionals/Conditionals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_3_Java_Conditionals/SwitchCase.java" afterDir="false" />
+    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase.">
+      <change afterPath="$PROJECT_DIR$/src/Day_4_Java_Loops/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4_Java_Loops/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4_Java_Loops/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4_Java_Loops/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4_Java_Loops/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,22 +28,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aritra8981"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aritra8981&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/aritra8981/java-software-engineer-journey.git",
-    "accountId": "19b431c6-6cd0-405b-81e0-e68a2186517a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aritra8981/java-software-engineer-journey.git&quot;,
+    &quot;accountId&quot;: &quot;19b431c6-6cd0-405b-81e0-e68a2186517a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3G92XaiG0rAUeo6nOV8GvqdhrMw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,15 +52,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Basic.executor": "Run",
+    "Application.BreakContinue.executor": "Run",
     "Application.Conditionals.executor": "Run",
     "Application.DataTypes.executor": "Run",
+    "Application.DoWhile.executor": "Run",
+    "Application.ForLoop.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputOutput.executor": "Run",
+    "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NestedLoops.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.TypeCasting.executor": "Run",
     "Application.Variables.executor": "Run",
+    "Application.WhileLoop.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -76,13 +86,13 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.InputOutput">
-    <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_3_Java_Conditionals.Conditionals" />
+  <component name="RunManager" selected="Application.DoWhile">
+    <configuration name="BreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.BreakContinue" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_3_Java_Conditionals.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_2_Java_Input_Output.InputOutput" />
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.DoWhile" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_2_Java_Input_Output.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1_Java_Basics.Operators" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.ForLoop" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1_Java_Basics.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_3_Java_Conditionals.SwitchCase" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.NestedLoops" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_3_Java_Conditionals.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1_Java_Basics.TypeCasting" />
+    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.WhileLoop" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1_Java_Basics.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.InputOutput" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.Conditionals" />
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.WhileLoop" />
+        <item itemvalue="Application.BreakContinue" />
+        <item itemvalue="Application.ForLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783449791035</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase.">
+      <option name="closed" value="true" />
+      <created>1783535063188</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1783535063189</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +247,7 @@
     <MESSAGE value="Day" />
     <MESSAGE value="Day 4 Coding&#10;Completed Topics:&#10;Input/Output in Java, Scanner Class, nextInt, nextFloat, nextBoolean(), nextShort, next(), nextLine()" />
     <MESSAGE value="Day 2 Coding&#10;Completed Topics:&#10;Input/Output in Java, Scanner Class, nextInt, nextFloat, nextBoolean(), nextShort, next(), nextLine()" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 Coding&#10;Completed Topics:&#10;Input/Output in Java, Scanner Class, nextInt, nextFloat, nextBoolean(), nextShort, next(), nextLine()" />
+    <MESSAGE value="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase." />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase." />
   </component>
 </project>
