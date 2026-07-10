@@ -1,4 +1,4 @@
-package Day_3_Java_Conditionals;
+package Practice_Programs;
 
 import java.util.Scanner;
 
