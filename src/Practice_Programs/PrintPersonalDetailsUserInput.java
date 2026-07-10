@@ -1,4 +1,4 @@
-package Day_2_Java_Input_Output;
+package Practice_Programs;
 
 import java.util.Scanner;
 
