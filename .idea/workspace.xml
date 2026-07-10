@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Practice Programs Updated PrintPersonalDetailsUserInput">
+    <list default="true" id="45589ba9-fd25-42d8-8f87-bd8548268cb4" name="Changes" comment="Practice Programs">
+      <change afterPath="$PROJECT_DIR$/src/Day_3_Java_Conditionals/LargestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day_3_Java_Conditionals/CheckEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_3_Java_Conditionals/CheckEvenOdd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +48,13 @@
   "keyToString": {
     "Application.Basic.executor": "Run",
     "Application.BreakContinue.executor": "Run",
-    "Application.CheckEvenOdd.executor": "Run",
     "Application.Conditionals.executor": "Run",
     "Application.DataTypes.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.InputOutput.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.NestedLoops.executor": "Run",
@@ -71,7 +71,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "practice__program",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
@@ -84,13 +84,13 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CheckEvenOdd">
-    <configuration name="CheckEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_3_Java_Conditionals.CheckEvenOdd" />
+  <component name="RunManager" selected="Application.LargestNumber">
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.DoWhile" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_3_Java_Conditionals.*" />
+          <option name="PATTERN" value="Day_4_Java_Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_4_Java_Loops.DoWhile" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3_Java_Conditionals.LargestNumber" />
       <module name="java-software-engineer-journey" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_4_Java_Loops.*" />
+          <option name="PATTERN" value="Day_3_Java_Conditionals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,7 +152,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckEvenOdd" />
+        <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.PrintPersonalDetailsUserInput" />
         <item itemvalue="Application.PrintPersonalDetails" />
         <item itemvalue="Application.DoWhile" />
@@ -239,15 +239,7 @@
       <option name="project" value="LOCAL" />
       <updated>1783620313563</updated>
     </task>
-    <task id="LOCAL-00009" summary="Practice Programs Updated PrintPersonalDetailsUserInput">
-      <option name="closed" value="true" />
-      <created>1783621587333</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1783621587333</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +264,6 @@
     <MESSAGE value="Day 3 Coding&#10;Completed Topics:&#10;Conditionals in Java, if, if-else, if-else-if ladder, Nested if-else, Ternary operator, SwitchCase." />
     <MESSAGE value="Day 4 Coding&#10;Completed Topics:&#10;Loops in Java, for Loop, while Loop, do-while, Nested for Loop, Nested While Loop, Break and Continue Statements" />
     <MESSAGE value="Practice Programs" />
-    <MESSAGE value="Practice Programs Updated PrintPersonalDetailsUserInput" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice Programs Updated PrintPersonalDetailsUserInput" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Programs" />
   </component>
 </project>
