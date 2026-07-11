@@ -1,11 +1,8 @@
-package Practice_Programs;
-
-//Problem Statement: Swapping numbers using third variable
-//Using Assignment operator
+package practiceprograms;
 
 import java.util.Scanner;
 
-public class SwappingNumbers {
+public class SwappingNumbersWithoutThirdVariable {
     static void main() {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter first Number: ");
@@ -13,9 +10,9 @@ public class SwappingNumbers {
         System.out.println("Enter second Number: ");
         int secondnum = input.nextInt();
 
-        int thirdnum = secondnum;
-        secondnum = firstnum;
-        firstnum = thirdnum;
+        firstnum = firstnum + secondnum;
+        secondnum = firstnum - secondnum;
+        firstnum = firstnum - secondnum;
 
         System.out.println("First Number: "+ firstnum);
         System.out.println("Second Number: " + secondnum);
