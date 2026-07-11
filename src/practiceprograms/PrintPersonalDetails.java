@@ -1,4 +1,4 @@
-package Practice_Programs;
+package practiceprograms;
 
 public class PrintPersonalDetails {
     static void main(String[] args) {

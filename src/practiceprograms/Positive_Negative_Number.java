@@ -1,4 +1,4 @@
-package Practice_Programs;
+package practiceprograms;
 
 //Problem is to find out whether the number is a positive number or a negative number or zero
 //So I am using conditional statemets here
