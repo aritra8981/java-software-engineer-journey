@@ -1,4 +1,4 @@
-package Practice_Programs;
+package practiceprograms;
 
 import java.util.Scanner;
 
@@ -57,7 +57,6 @@ public class SimpleCalculator {
                 break;
             }
         }
-
-
+        input.close();  //Best Practice
     }
 }
