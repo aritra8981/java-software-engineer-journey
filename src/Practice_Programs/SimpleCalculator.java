@@ -57,7 +57,6 @@ public class SimpleCalculator {
                 break;
             }
         }
-
-
+        input.close();  //Best Practice
     }
 }
